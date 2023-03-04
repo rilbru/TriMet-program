@@ -1,12 +1,3 @@
-/*****************************************************************************
-# Author:           Devri Anderson 
-# Lab:              Assignment #4
-# Date:             October 20, 2021
-# Description:      Select your pass type and number of passes to see the cost to ride on the TriMet.
-# Input:            passType, numTickets   
-# Output:           numTickets, amountPaid, freeRide
-# Sources:          ZyBooks Ch. 4
-******************************************************************************/
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
